@@ -1,0 +1,12 @@
+{
+  "navigation": [
+    {
+      "title": "Handmade Quilts",
+      "path": "/"
+    },
+    {
+      "title": "Custom Orders",
+      "path": "/custom"
+    }
+  ]
+}
