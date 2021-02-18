@@ -1,12 +1,14 @@
 # Quiltshop
-https://quiltshop.herokuapp.com/
+Frontend:
+*https://quiltshop.herokuapp.com/
+Backend:
+*https://quiltshop-backend.herokuapp.com/
 
 ## Table of Contents
 * [Introduction](#Introduction)
 * [Features](#Features)
 * [Technologies](#Technologies)
 * [Images](#Images)
-* [Links](#Links)
 * [Inspiration](#Inspiration)
 * [Backend Setup](#Backend-Setup)
 * [Frontend Setup](#Frontend-Setup)
@@ -43,12 +45,6 @@ https://quiltshop.herokuapp.com/
 ![Logged In Owner](./Screenshots/login.png)
 ![Shopping Cart](./Screenshots/cart.png)
 
-## Links
-Frontend:
->https://quiltshop.herokuapp.com/
-Backend:
->https://quiltshop-backend.herokuapp.com/
-
 ## Inspiration
 A very close family member is starting a quilting business. This project is a prototype for her.
 
@@ -73,3 +69,4 @@ npm install
 ```
 npm start
 ```
+* The React app is now running on port 3000.
