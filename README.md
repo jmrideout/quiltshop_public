@@ -1,8 +1,9 @@
 # Quiltshop
 Frontend:
-*https://quiltshop.herokuapp.com/
+* https://quiltshop.herokuapp.com/
+
 Backend:
-*https://quiltshop-backend.herokuapp.com/
+* https://quiltshop-backend.herokuapp.com/
 
 ## Table of Contents
 * [Introduction](#Introduction)
